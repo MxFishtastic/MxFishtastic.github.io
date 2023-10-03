@@ -4,6 +4,10 @@ body, h1, h2, h3, p {
     padding: 0;
 }
 
+body {
+  background-image: url("https://vignette.wikia.nocookie.net/epithet-erased/images/9/91/Screenshot_(7).png/revision/latest?cb=20191216030737");
+}
+
 /* Set a background color and text color */
 body {
     background-image: url("https://vignette.wikia.nocookie.net/epithet-erased/images/9/91/Screenshot_(7).png/revision/latest?cb=20191216030737");
